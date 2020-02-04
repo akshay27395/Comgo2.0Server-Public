@@ -327,8 +327,8 @@ function sendSMS(req, res,typeOfValidator) {
                         var subject = tempBody.replace('@@@@@', req.body.allId.projectName)
                         var attachment = ''
                         var filePath = ''
-                        var senderUsername = "crm@comgo.io"
-                        var senderPassword = "ComGo1!2@3#4$"
+                        var senderUsername = "abc@gmail.com"
+                        var senderPassword = "xyz"
                         var emailBody = tempSub.replace('$$$$$', req.body.allId.activityName)
                         console.log("send email to activity financial validator ", tomail)
                         mail.sendMail(req, from, tomail, tomail, subject, emailBody, attachment, filePath, senderUsername, senderPassword)
@@ -385,8 +385,8 @@ function sendSMS(req, res,typeOfValidator) {
                         var subject = tempBody.replace('@@@@@', req.body.allId.projectName)
                         var attachment = ''
                         var filePath = ''
-                        var senderUsername = "crm@comgo.io"
-                        var senderPassword = "ComGo1!2@3#4$"
+                        var senderUsername = "abc@gmail.com"
+                        var senderPassword = "xyz"
                         var emailBody = tempSub.replace('$$$$$', req.body.allId.activityName)
                         console.log("send email to activity financial validator ", tomail)
                         mail.sendMail(req, from, tomail, tomail, subject, emailBody, attachment, filePath, senderUsername, senderPassword)
@@ -633,8 +633,8 @@ function notifyDonor(reqBody, res) {
                 var subject = reqBody.allId.projectName + ' - Actividad finalizada!'
                 var attachment = ''
                 var filePath = ''
-                var senderUsername = "crm@comgo.io"
-                var senderPassword = "ComGo1!2@3#4$"
+                var senderUsername = "abc@gmail.com"
+                var senderPassword = "xyz"
                 mail.sendMail(reqBody, from, tomail, tomail, subject, temp, attachment, filePath, senderUsername, senderPassword)
                     .then(function (data) {
                         console.log("Response from send mail->", data)
@@ -689,8 +689,8 @@ function sendEmail(req, res) {
                 //     port: 587,     // secure SMTP
                 //     secure: false, // false for TLS - as a boolean not string - but the default is false so just remove this completely
                 //     auth: {
-                //         user: "crm@comgo.io",
-                //         pass: "ComGo1!2@3#4$"
+                //         user: "abc@gmail.com",
+                //         pass: "xyz"
                 //     },
                 //     requireTLS: true,
                 //     tls: {
@@ -715,8 +715,8 @@ function sendEmail(req, res) {
                 var subject = req.body.allId.projectName + ' - Actividad finalizada!'
                 var attachment = ''
                 var filePath = ''
-                var senderUsername = "crm@comgo.io"
-                var senderPassword = "ComGo1!2@3#4$"
+                var senderUsername = "abc@gmail.com"
+                var senderPassword = "xyz"
                 mail.sendMail(req, from, tomail, tomail, subject, temp, attachment, filePath, senderUsername, senderPassword)
                     .then(function (data) {
                         console.log("Response from send mail->", data)
@@ -761,8 +761,8 @@ function sendEmailToCRM(req, res) {
         //     port: 587,     // secure SMTP
         //     secure: false, // false for TLS - as a boolean not string - but the default is false so just remove this completely
         //     auth: {
-        //         user: "crm@comgo.io",
-        //         pass: "ComGo1!2@3#4$"
+        //         user: "abc@gmail.com",
+        //         pass: "xyz"
         //     },
         //     requireTLS: true,
         //     tls: {
@@ -787,8 +787,8 @@ function sendEmailToCRM(req, res) {
         var subject = 'Activity is Completed'
         var attachment = ''
         var filePath = ''
-        var senderUsername = "crm@comgo.io"
-        var senderPassword = "ComGo1!2@3#4$"
+        var senderUsername = "abc@gmail.com"
+        var senderPassword = "xyz"
         mail.sendMail(req, from, tomail, tomail, subject, temp, attachment, filePath, senderUsername, senderPassword)
             .then(function (data) {
                 console.log("Response from send mail->", data)

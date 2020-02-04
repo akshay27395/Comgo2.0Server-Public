@@ -138,8 +138,8 @@ function sendInvitation(req, res) {
         var from = 'crm@comgo.io'
         var attachment = ''
         var filePath = ''
-        var senderUsername = "crm@comgo.io"
-        var senderPassword = "ComGo1!2@3#4$"
+        var senderUsername = "abc@gmail.com"
+        var senderPassword = "xyz"
         console.log("Mail body of invitation: ", mailBody)
         mail.sendMail(req, from, to, to, sub, mailBody, attachment, filePath, senderUsername, senderPassword)
             .then(function (data) {
@@ -243,8 +243,8 @@ function mailToFindWorkspace(req, res) {
                     var from = 'crm@comgo.io'
                     var attachment = ''
                     var filePath = ''
-                    var senderUsername = "crm@comgo.io"
-                    var senderPassword = "ComGo1!2@3#4$"
+                    var senderUsername = "abc@gmail.com"
+                    var senderPassword = "xyz"
                     mail.sendMail(req, from, to, to, sub, mailBody, attachment, filePath, senderUsername, senderPassword)
                         .then(function (data) {
                             console.log("Response from send mail->", data)
@@ -904,8 +904,8 @@ function sendRegistrationEmail(req, res) {
     var from = 'crm@comgo.io'
     var attachment = ''
     var filePath = ''
-    var senderUsername = "crm@comgo.io"
-    var senderPassword = "ComGo1!2@3#4$"
+    var senderUsername = "abc@gmail.com"
+    var senderPassword = "xyz"
     var collectionName = 'EmailTemplate'
     var condition = {};
     var paramNotReq = {};
@@ -941,8 +941,8 @@ function sendEmail(req, res) {
     var from = 'crm@comgo.io'
     var attachment = ''
     var filePath = ''
-    var senderUsername = "crm@comgo.io"
-    var senderPassword = "ComGo1!2@3#4$"
+    var senderUsername = "abc@gmail.com"
+    var senderPassword = "xyz"
     mail.sendMail(req, from, to, to, sub, mailBody, attachment, filePath, senderUsername, senderPassword)
         .then(function (data) {
             console.log("Response from send mail->", data)
@@ -1270,8 +1270,8 @@ function validateUser(req, res) {
                     var from = 'crm@comgo.io'
                     var attachment = ''
                     var filePath = ''
-                    var senderUsername = "crm@comgo.io"
-                    var senderPassword = "ComGo1!2@3#4$"
+                    var senderUsername = "abc@gmail.com"
+                    var senderPassword = "xyz"
                     mail.sendMail(req, from, to, to, sub, mailBody, attachment, filePath, senderUsername, senderPassword)
                         .then(function (data) {
                             console.log("Response from send mail->", data)

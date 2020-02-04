@@ -288,8 +288,8 @@ function getCRMUsers(req, res) {
             var from = 'crm@comgo.io'
             var attachment = 'Thankyouphoto.jpg'
             var filePath = './uploads/Thankyou/Thankyouphoto.jpg'
-            var senderUsername = "crm@comgo.io"
-            var senderPassword = "ComGo1!2@3#4$"
+            var senderUsername = "abc@gmail.com"
+            var senderPassword = "xyz"
             console.log("Donation mail Body: ",emailbody)
             mail.sendMail(req, from,tomail,bcc,subject,emailbody,attachment,filePath,senderUsername,senderPassword)
             .then(function (data) {
@@ -342,8 +342,8 @@ function sendSMS(req, res) {
                     var bcc = tomail
                     var attachment = 'Thankyouphoto.jpg'
                     var filePath = './uploads/Thankyou/Thankyouphoto.jpg'
-                    var senderUsername = "crm@comgo.io"
-                    var senderPassword = "ComGo1!2@3#4$"
+                    var senderUsername = "abc@gmail.com"
+                    var senderPassword = "xyz"
                     console.log("replacedBody: ",replacedBody)
                     mail.sendMail(req, from,tomail,bcc,data[0].subject,replacedBody,attachment,filePath,senderUsername,senderPassword)
             .then(function (mailres) {

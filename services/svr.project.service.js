@@ -424,8 +424,8 @@ function notifyBoard(reqBody, session, params, query) {
         var emailbody = "There is a new project pending for approval:" + reqBody.projectName
         var attachment = ''
         var filePath = ''
-        var senderUsername = "crm@comgo.io"
-        var senderPassword = "ComGo1!2@3#4$"
+        var senderUsername = "abc@gmail.com"
+        var senderPassword = "xyz"
         mail.sendMail(reqBody, from, tomail, tomail, subject, emailbody, attachment, filePath, senderUsername, senderPassword)
             .then(function (data) {
                 console.log("Response from send mail->", data)

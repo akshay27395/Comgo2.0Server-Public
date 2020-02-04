@@ -505,7 +505,7 @@ function notifyBoard(req,res) {
         var body = "There is a new project pending for approval : " + req.body.projectName
         var attachment = ''
         var filePath = ''
-        var senderUsername = "crm@comgo.io"
+        var senderUsername = "abc@gmail.com"
             sms.sendMultipleSMS(req, smsARR, twilioNumber, body)
                 .then(function (data) {
                     console.log("Response from send sms->", data)

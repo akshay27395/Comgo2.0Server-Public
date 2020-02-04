@@ -89,8 +89,8 @@ function saveEmail(req, res) {
                         var attachment = ''
                         var filePath = ''
                     }
-                    var senderUsername = "crm@comgo.io"
-                    var senderPassword = "ComGo1!2@3#4$"
+                    var senderUsername = "abc@gmail.com"
+                    var senderPassword = "xyz"
                     mail.sendMail(req, from, tomail, tomail, subject, emailbody, attachment, filePath, senderUsername, senderPassword)
                         .then(function (data) {
                             console.log("Response from send mail->", data)
@@ -349,8 +349,8 @@ function sendEmail(req, res) {
                     var subject = 'Activity is complete'
                     var attachment = ''
                     var filePath = ''
-                    var senderUsername = "crm@comgo.io"
-                    var senderPassword = "ComGo1!2@3#4$"
+                    var senderUsername = "abc@gmail.com"
+                    var senderPassword = "xyz"
                     var emailbody = 'Gracias por tu donacion! Ya se ha pagado la nómina de Samirbhai Macwan por valor de INR 3000 del mes de diciembre. Gracias por hacerlo posible. Gracias de parte del equipo itwillbe.'
                     mail.sendMail(req, from, tomail, tomail, subject, emailbody, attachment, filePath, senderUsername, senderPassword)
                         .then(function (data) {

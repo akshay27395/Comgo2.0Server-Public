@@ -19,7 +19,6 @@ var morgan = require('morgan');
 var winston = require('./config/winston');
 var RedisStore = require('connect-redis')(session);
 var spdy = require('spdy');
-var exception = require('./config/exceptions.json');
 
 var allowCrossDomain = function getAllowCrossDomain(){
     

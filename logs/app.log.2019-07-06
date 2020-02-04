@@ -1,0 +1,389 @@
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:06:45:20 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/register-2" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:06:51:19 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/register-2" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:06:54:27 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:06:54:57 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/home-page" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:06:57:26 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/home-page" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:06:58:11 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/home-page" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:06:59:35 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/home-page" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:07:00:20 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:07:00:31 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/home-page" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:07:01:17 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/home-page" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:07:02:20 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/home-page" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:07:03:18 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/home-page" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:07:04:07 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/home-page" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:07:04:21 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/home-page" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:07:04:47 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/home-page" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:07:09:30 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/find-workspace" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:07:12:16 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/find-workspace" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:07:14:44 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/find-workspace" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:07:15:08 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/find-workspace" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:07:17:10 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/find-workspace" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:07:17:50 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/find-workspace" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:07:36:46 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/login-2" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:07:38:15 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/login-2" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+error: [31m401 - jwt malformed - /api/users/mailToFindWorkspace - POST - ::ffff:192.168.5.144[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:07:40:42 +0000] "GET / HTTP/1.1" 302 52 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+error: [31m500 - No default engine was specified and no extension was provided. - /login?returnUrl=%2Fapp%2F - GET - ::ffff:192.168.5.144[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:07:40:42 +0000] "GET / HTTP/1.1" 302 52 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+error: [31m500 - No default engine was specified and no extension was provided. - /login?returnUrl=%2Fapp%2F - GET - ::ffff:192.168.5.144[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:07:40:43 +0000] "GET /favicon.ico HTTP/1.1" 404 150 "https://192.168.5.144:3001/login?returnUrl=%2Fapp%2F" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+error: [31m500 - Cannot read property 'then' of undefined - /api/users/mailToFindWorkspace - POST - ::ffff:192.168.5.144[39m
+error: [31m500 - Cannot read property 'then' of undefined - /api/users/mailToFindWorkspace - POST - ::ffff:192.168.5.144[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:07:53:40 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/find-workspace" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:07:53:54 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/find-workspace" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:07:56:37 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/find-workspace" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:07:57:51 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/forgot-password-3/cm2/fp2" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:09:16:58 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:09:17:19 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/expenses/expenses/yourWorkspace" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:09:28:03 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/forgot-password-3/cm2/fp2" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:09:28:16 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/forgot-password-3/cm2/fp2" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:09:29:11 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:09:31:07 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:09:33:08 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:09:33:20 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:09:34:32 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:09:34:49 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:09:36:22 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:09:36:59 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:09:38:28 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:09:39:59 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:09:40:07 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:09:41:17 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:09:41:48 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:09:44:54 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:09:45:24 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:09:48:26 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:09:48:34 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:09:53:34 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:09:53:50 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+error: [31muncaughtException: yourWorkSpace is not defined[39m
+[31mReferenceError: yourWorkSpace is not defined[39m
+[31m    at Object.<anonymous> (/home/dell/Cateina/Developement/Comgo/UAT/05July2019/ComGo-Marketplace-Test-Server/services/svr.user.service.js:48:25)[39m
+[31m    at Module._compile (module.js:643:30)[39m
+[31m    at Object.Module._extensions..js (module.js:654:10)[39m
+[31m    at Module.load (module.js:556:32)[39m
+[31m    at tryModuleLoad (module.js:499:12)[39m
+[31m    at Function.Module._load (module.js:491:3)[39m
+[31m    at Module.require (module.js:587:17)[39m
+[31m    at require (internal/module.js:11:18)[39m
+[31m    at Object.<anonymous> (/home/dell/Cateina/Developement/Comgo/UAT/05July2019/ComGo-Marketplace-Test-Server/controllers/api/svr.uses.controller.js:4:19)[39m
+[31m    at Module._compile (module.js:643:30)[39m
+[31m    at Object.Module._extensions..js (module.js:654:10)[39m
+[31m    at Module.load (module.js:556:32)[39m
+[31m    at tryModuleLoad (module.js:499:12)[39m
+[31m    at Function.Module._load (module.js:491:3)[39m
+[31m    at Module.require (module.js:587:17)[39m
+[31m    at require (internal/module.js:11:18)[39m
+[31m    at Object.<anonymous> (/home/dell/Cateina/Developement/Comgo/UAT/05July2019/ComGo-Marketplace-Test-Server/comgoTest.js:124:51)[39m
+[31m    at Module._compile (module.js:643:30)[39m
+[31m    at Object.Module._extensions..js (module.js:654:10)[39m
+[31m    at Module.load (module.js:556:32)[39m
+[31m    at tryModuleLoad (module.js:499:12)[39m
+[31m    at Function.Module._load (module.js:491:3)[39m {"error":{},"stack":"ReferenceError: yourWorkSpace is not defined\n    at Object.<anonymous> (/home/dell/Cateina/Developement/Comgo/UAT/05July2019/ComGo-Marketplace-Test-Server/services/svr.user.service.js:48:25)\n    at Module._compile (module.js:643:30)\n    at Object.Module._extensions..js (module.js:654:10)\n    at Module.load (module.js:556:32)\n    at tryModuleLoad (module.js:499:12)\n    at Function.Module._load (module.js:491:3)\n    at Module.require (module.js:587:17)\n    at require (internal/module.js:11:18)\n    at Object.<anonymous> (/home/dell/Cateina/Developement/Comgo/UAT/05July2019/ComGo-Marketplace-Test-Server/controllers/api/svr.uses.controller.js:4:19)\n    at Module._compile (module.js:643:30)\n    at Object.Module._extensions..js (module.js:654:10)\n    at Module.load (module.js:556:32)\n    at tryModuleLoad (module.js:499:12)\n    at Function.Module._load (module.js:491:3)\n    at Module.require (module.js:587:17)\n    at require (internal/module.js:11:18)\n    at Object.<anonymous> (/home/dell/Cateina/Developement/Comgo/UAT/05July2019/ComGo-Marketplace-Test-Server/comgoTest.js:124:51)\n    at Module._compile (module.js:643:30)\n    at Object.Module._extensions..js (module.js:654:10)\n    at Module.load (module.js:556:32)\n    at tryModuleLoad (module.js:499:12)\n    at Function.Module._load (module.js:491:3)","exception":true,"date":"Sat Jul 06 2019 15:28:24 GMT+0530 (IST)","process":{"pid":1819,"uid":1000,"gid":1000,"cwd":"/home/dell/Cateina/Developement/Comgo/UAT/05July2019/ComGo-Marketplace-Test-Server","execPath":"/usr/local/bin/node","version":"v8.9.4","argv":["/usr/local/bin/node","/home/dell/Cateina/Developement/Comgo/UAT/05July2019/ComGo-Marketplace-Test-Server/comgoTest.js"],"memoryUsage":{"rss":103337984,"heapTotal":73748480,"heapUsed":52998120,"external":19696304}},"os":{"loadavg":[1.08056640625,1.18798828125,1.18017578125],"uptime":17881},"trace":[{"column":25,"file":"/home/dell/Cateina/Developement/Comgo/UAT/05July2019/ComGo-Marketplace-Test-Server/services/svr.user.service.js","function":null,"line":48,"method":null,"native":false},{"column":30,"file":"module.js","function":"Module._compile","line":643,"method":"_compile","native":false},{"column":10,"file":"module.js","function":"Module._extensions..js","line":654,"method":".js","native":false},{"column":32,"file":"module.js","function":"Module.load","line":556,"method":"load","native":false},{"column":12,"file":"module.js","function":"tryModuleLoad","line":499,"method":null,"native":false},{"column":3,"file":"module.js","function":"Module._load","line":491,"method":"_load","native":false},{"column":17,"file":"module.js","function":"Module.require","line":587,"method":"require","native":false},{"column":18,"file":"internal/module.js","function":"require","line":11,"method":null,"native":false},{"column":19,"file":"/home/dell/Cateina/Developement/Comgo/UAT/05July2019/ComGo-Marketplace-Test-Server/controllers/api/svr.uses.controller.js","function":null,"line":4,"method":null,"native":false},{"column":30,"file":"module.js","function":"Module._compile","line":643,"method":"_compile","native":false},{"column":10,"file":"module.js","function":"Module._extensions..js","line":654,"method":".js","native":false},{"column":32,"file":"module.js","function":"Module.load","line":556,"method":"load","native":false},{"column":12,"file":"module.js","function":"tryModuleLoad","line":499,"method":null,"native":false},{"column":3,"file":"module.js","function":"Module._load","line":491,"method":"_load","native":false},{"column":17,"file":"module.js","function":"Module.require","line":587,"method":"require","native":false},{"column":18,"file":"internal/module.js","function":"require","line":11,"method":null,"native":false},{"column":51,"file":"/home/dell/Cateina/Developement/Comgo/UAT/05July2019/ComGo-Marketplace-Test-Server/comgoTest.js","function":null,"line":124,"method":null,"native":false},{"column":30,"file":"module.js","function":"Module._compile","line":643,"method":"_compile","native":false},{"column":10,"file":"module.js","function":"Module._extensions..js","line":654,"method":".js","native":false},{"column":32,"file":"module.js","function":"Module.load","line":556,"method":"load","native":false},{"column":12,"file":"module.js","function":"tryModuleLoad","line":499,"method":null,"native":false},{"column":3,"file":"module.js","function":"Module._load","line":491,"method":"_load","native":false}]}
+error: [31muncaughtException: yourWorkSpace is not defined[39m
+[31mReferenceError: yourWorkSpace is not defined[39m
+[31m    at Object.<anonymous> (/home/dell/Cateina/Developement/Comgo/UAT/05July2019/ComGo-Marketplace-Test-Server/services/svr.user.service.js:48:25)[39m
+[31m    at Module._compile (module.js:643:30)[39m
+[31m    at Object.Module._extensions..js (module.js:654:10)[39m
+[31m    at Module.load (module.js:556:32)[39m
+[31m    at tryModuleLoad (module.js:499:12)[39m
+[31m    at Function.Module._load (module.js:491:3)[39m
+[31m    at Module.require (module.js:587:17)[39m
+[31m    at require (internal/module.js:11:18)[39m
+[31m    at Object.<anonymous> (/home/dell/Cateina/Developement/Comgo/UAT/05July2019/ComGo-Marketplace-Test-Server/controllers/api/svr.uses.controller.js:4:19)[39m
+[31m    at Module._compile (module.js:643:30)[39m
+[31m    at Object.Module._extensions..js (module.js:654:10)[39m
+[31m    at Module.load (module.js:556:32)[39m
+[31m    at tryModuleLoad (module.js:499:12)[39m
+[31m    at Function.Module._load (module.js:491:3)[39m
+[31m    at Module.require (module.js:587:17)[39m
+[31m    at require (internal/module.js:11:18)[39m
+[31m    at Object.<anonymous> (/home/dell/Cateina/Developement/Comgo/UAT/05July2019/ComGo-Marketplace-Test-Server/comgoTest.js:124:51)[39m
+[31m    at Module._compile (module.js:643:30)[39m
+[31m    at Object.Module._extensions..js (module.js:654:10)[39m
+[31m    at Module.load (module.js:556:32)[39m
+[31m    at tryModuleLoad (module.js:499:12)[39m
+[31m    at Function.Module._load (module.js:491:3)[39m {"error":{},"stack":"ReferenceError: yourWorkSpace is not defined\n    at Object.<anonymous> (/home/dell/Cateina/Developement/Comgo/UAT/05July2019/ComGo-Marketplace-Test-Server/services/svr.user.service.js:48:25)\n    at Module._compile (module.js:643:30)\n    at Object.Module._extensions..js (module.js:654:10)\n    at Module.load (module.js:556:32)\n    at tryModuleLoad (module.js:499:12)\n    at Function.Module._load (module.js:491:3)\n    at Module.require (module.js:587:17)\n    at require (internal/module.js:11:18)\n    at Object.<anonymous> (/home/dell/Cateina/Developement/Comgo/UAT/05July2019/ComGo-Marketplace-Test-Server/controllers/api/svr.uses.controller.js:4:19)\n    at Module._compile (module.js:643:30)\n    at Object.Module._extensions..js (module.js:654:10)\n    at Module.load (module.js:556:32)\n    at tryModuleLoad (module.js:499:12)\n    at Function.Module._load (module.js:491:3)\n    at Module.require (module.js:587:17)\n    at require (internal/module.js:11:18)\n    at Object.<anonymous> (/home/dell/Cateina/Developement/Comgo/UAT/05July2019/ComGo-Marketplace-Test-Server/comgoTest.js:124:51)\n    at Module._compile (module.js:643:30)\n    at Object.Module._extensions..js (module.js:654:10)\n    at Module.load (module.js:556:32)\n    at tryModuleLoad (module.js:499:12)\n    at Function.Module._load (module.js:491:3)","exception":true,"date":"Sat Jul 06 2019 15:28:28 GMT+0530 (IST)","process":{"pid":1939,"uid":1000,"gid":1000,"cwd":"/home/dell/Cateina/Developement/Comgo/UAT/05July2019/ComGo-Marketplace-Test-Server","execPath":"/usr/local/bin/node","version":"v8.9.4","argv":["/usr/local/bin/node","/home/dell/Cateina/Developement/Comgo/UAT/05July2019/ComGo-Marketplace-Test-Server/comgoTest.js"],"memoryUsage":{"rss":102752256,"heapTotal":73748480,"heapUsed":52480232,"external":19696304}},"os":{"loadavg":[1.314453125,1.23486328125,1.19580078125],"uptime":17886},"trace":[{"column":25,"file":"/home/dell/Cateina/Developement/Comgo/UAT/05July2019/ComGo-Marketplace-Test-Server/services/svr.user.service.js","function":null,"line":48,"method":null,"native":false},{"column":30,"file":"module.js","function":"Module._compile","line":643,"method":"_compile","native":false},{"column":10,"file":"module.js","function":"Module._extensions..js","line":654,"method":".js","native":false},{"column":32,"file":"module.js","function":"Module.load","line":556,"method":"load","native":false},{"column":12,"file":"module.js","function":"tryModuleLoad","line":499,"method":null,"native":false},{"column":3,"file":"module.js","function":"Module._load","line":491,"method":"_load","native":false},{"column":17,"file":"module.js","function":"Module.require","line":587,"method":"require","native":false},{"column":18,"file":"internal/module.js","function":"require","line":11,"method":null,"native":false},{"column":19,"file":"/home/dell/Cateina/Developement/Comgo/UAT/05July2019/ComGo-Marketplace-Test-Server/controllers/api/svr.uses.controller.js","function":null,"line":4,"method":null,"native":false},{"column":30,"file":"module.js","function":"Module._compile","line":643,"method":"_compile","native":false},{"column":10,"file":"module.js","function":"Module._extensions..js","line":654,"method":".js","native":false},{"column":32,"file":"module.js","function":"Module.load","line":556,"method":"load","native":false},{"column":12,"file":"module.js","function":"tryModuleLoad","line":499,"method":null,"native":false},{"column":3,"file":"module.js","function":"Module._load","line":491,"method":"_load","native":false},{"column":17,"file":"module.js","function":"Module.require","line":587,"method":"require","native":false},{"column":18,"file":"internal/module.js","function":"require","line":11,"method":null,"native":false},{"column":51,"file":"/home/dell/Cateina/Developement/Comgo/UAT/05July2019/ComGo-Marketplace-Test-Server/comgoTest.js","function":null,"line":124,"method":null,"native":false},{"column":30,"file":"module.js","function":"Module._compile","line":643,"method":"_compile","native":false},{"column":10,"file":"module.js","function":"Module._extensions..js","line":654,"method":".js","native":false},{"column":32,"file":"module.js","function":"Module.load","line":556,"method":"load","native":false},{"column":12,"file":"module.js","function":"tryModuleLoad","line":499,"method":null,"native":false},{"column":3,"file":"module.js","function":"Module._load","line":491,"method":"_load","native":false}]}
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:10:13:53 +0000] "GET / HTTP/1.1" 302 52 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+error: [31m500 - No default engine was specified and no extension was provided. - /login?returnUrl=%2Fapp%2F - GET - ::ffff:192.168.5.144[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:10:14:10 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:10:15:01 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:10:16:05 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:10:18:01 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:10:24:52 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:10:25:36 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:10:25:52 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/home-page" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:10:27:06 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:10:30:42 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace?username=cm2" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:10:31:14 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/find-workspace" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:10:31:18 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace?username=cm2" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:10:34:48 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace?username=cm2" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:10:35:06 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace?username=cm2" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:10:35:20 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace?username=cm2" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:10:38:52 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:10:43:14 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/register-2" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:10:45:11 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/register-2" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:10:48:25 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace?username=cm2" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:10:49:47 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace?username=cm2" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:10:50:22 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace?username=cm2" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:10:50:47 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace?username=cm2" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:10:52:04 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace?username=cm2" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:10:52:34 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace?username=cm2" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:10:52:56 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace?username=cm2" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:10:55:07 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace?username=cm2" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:10:55:50 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace?username=cm2" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:10:56:00 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace?username=cm2" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:10:56:31 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace?username=cm21" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:11:02:30 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace?username=cm21" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:11:02:41 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace?username=cm21" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:11:07:08 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace?username=cm21" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:11:08:22 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace?username=cm21" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:11:08:43 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace?username=cm21" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:11:09:49 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace?username=cm21" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:11:12:50 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace?username=cm21" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:11:15:59 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace?username=cm21" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+error: [31m500 - db.User.findOne(...).toArray is not a function - /api/users/yourWorkSpace - POST - ::ffff:192.168.5.144[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:11:16:46 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace?username=cm21" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:11:17:33 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace?username=cm21" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:11:18:46 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace?username=cm21" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:11:19:09 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace?username=cm21" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:11:19:49 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace?username=cm21" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:11:20:25 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace?username=cm21" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:11:21:36 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace?username=cm21" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:11:22:15 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace?username=cm21" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:11:23:17 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace?username=cm21" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:11:24:07 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace?username=cm21" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:11:29:24 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace?username=cm21" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:11:30:22 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace?username=cm21" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:11:31:34 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace?username=cm21" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:11:32:53 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace?username=cm21" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:11:33:25 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace?username=cm21" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:11:34:15 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace?username=cm21" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:11:36:49 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace?username=cm21" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:11:36:58 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace?username=cm21" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:11:37:59 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace?username=cm21" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:11:39:15 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace?username=cm21" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:11:40:02 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:11:40:48 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/login-2" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:11:41:07 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace?username=cm21" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:11:41:22 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/login-2" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:11:41:34 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace?username=cm21" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:12:09:11 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace?username=cm21" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:12:09:25 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace?username=cm21" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:12:15:29 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:12:15:36 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/home-page" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:12:15:45 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/home-page" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:12:15:57 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/home-page" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:12:17:44 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/find-workspace" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:12:19:08 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/home-page" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:12:19:39 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace?username=cm22" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:12:21:29 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/find-workspace" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:12:46:33 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/find-workspace" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:12:47:14 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/find-workspace" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:12:50:07 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/find-workspace" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:12:51:26 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/find-workspace" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+error: [31muncaughtException: "exp" is not allowed in "options"[39m
+[31mError: "exp" is not allowed in "options"[39m
+[31m    at /home/dell/Cateina/Developement/Comgo/UAT/05July2019/ComGo-Marketplace-Test-Server/node_modules/jsonwebtoken/sign.js:41:17[39m
+[31m    at Array.forEach (<anonymous>)[39m
+[31m    at validate (/home/dell/Cateina/Developement/Comgo/UAT/05July2019/ComGo-Marketplace-Test-Server/node_modules/jsonwebtoken/sign.js:37:6)[39m
+[31m    at validateOptions (/home/dell/Cateina/Developement/Comgo/UAT/05July2019/ComGo-Marketplace-Test-Server/node_modules/jsonwebtoken/sign.js:52:10)[39m
+[31m    at Object.module.exports [as sign] (/home/dell/Cateina/Developement/Comgo/UAT/05July2019/ComGo-Marketplace-Test-Server/node_modules/jsonwebtoken/sign.js:135:5)[39m
+[31m    at /home/dell/Cateina/Developement/Comgo/UAT/05July2019/ComGo-Marketplace-Test-Server/services/svr.user.service.js:72:33[39m
+[31m    at handleCallback (/home/dell/Cateina/Developement/Comgo/UAT/05July2019/ComGo-Marketplace-Test-Server/node_modules/mongodb/lib/utils.js:120:56)[39m
+[31m    at /home/dell/Cateina/Developement/Comgo/UAT/05July2019/ComGo-Marketplace-Test-Server/node_modules/mongodb/lib/collection.js:1416:5[39m
+[31m    at handleCallback (/home/dell/Cateina/Developement/Comgo/UAT/05July2019/ComGo-Marketplace-Test-Server/node_modules/mongodb/lib/utils.js:120:56)[39m
+[31m    at /home/dell/Cateina/Developement/Comgo/UAT/05July2019/ComGo-Marketplace-Test-Server/node_modules/mongodb/lib/cursor.js:683:5[39m
+[31m    at handleCallback (/home/dell/Cateina/Developement/Comgo/UAT/05July2019/ComGo-Marketplace-Test-Server/node_modules/mongodb-core/lib/cursor.js:171:5)[39m
+[31m    at nextFunction (/home/dell/Cateina/Developement/Comgo/UAT/05July2019/ComGo-Marketplace-Test-Server/node_modules/mongodb-core/lib/cursor.js:691:5)[39m
+[31m    at /home/dell/Cateina/Developement/Comgo/UAT/05July2019/ComGo-Marketplace-Test-Server/node_modules/mongodb-core/lib/cursor.js:602:7[39m
+[31m    at queryCallback (/home/dell/Cateina/Developement/Comgo/UAT/05July2019/ComGo-Marketplace-Test-Server/node_modules/mongodb-core/lib/cursor.js:232:18)[39m
+[31m    at /home/dell/Cateina/Developement/Comgo/UAT/05July2019/ComGo-Marketplace-Test-Server/node_modules/mongodb-core/lib/connection/pool.js:469:18[39m
+[31m    at _combinedTickCallback (internal/process/next_tick.js:131:7)[39m
+[31m    at process._tickCallback (internal/process/next_tick.js:180:9)[39m {"error":{},"stack":"Error: \"exp\" is not allowed in \"options\"\n    at /home/dell/Cateina/Developement/Comgo/UAT/05July2019/ComGo-Marketplace-Test-Server/node_modules/jsonwebtoken/sign.js:41:17\n    at Array.forEach (<anonymous>)\n    at validate (/home/dell/Cateina/Developement/Comgo/UAT/05July2019/ComGo-Marketplace-Test-Server/node_modules/jsonwebtoken/sign.js:37:6)\n    at validateOptions (/home/dell/Cateina/Developement/Comgo/UAT/05July2019/ComGo-Marketplace-Test-Server/node_modules/jsonwebtoken/sign.js:52:10)\n    at Object.module.exports [as sign] (/home/dell/Cateina/Developement/Comgo/UAT/05July2019/ComGo-Marketplace-Test-Server/node_modules/jsonwebtoken/sign.js:135:5)\n    at /home/dell/Cateina/Developement/Comgo/UAT/05July2019/ComGo-Marketplace-Test-Server/services/svr.user.service.js:72:33\n    at handleCallback (/home/dell/Cateina/Developement/Comgo/UAT/05July2019/ComGo-Marketplace-Test-Server/node_modules/mongodb/lib/utils.js:120:56)\n    at /home/dell/Cateina/Developement/Comgo/UAT/05July2019/ComGo-Marketplace-Test-Server/node_modules/mongodb/lib/collection.js:1416:5\n    at handleCallback (/home/dell/Cateina/Developement/Comgo/UAT/05July2019/ComGo-Marketplace-Test-Server/node_modules/mongodb/lib/utils.js:120:56)\n    at /home/dell/Cateina/Developement/Comgo/UAT/05July2019/ComGo-Marketplace-Test-Server/node_modules/mongodb/lib/cursor.js:683:5\n    at handleCallback (/home/dell/Cateina/Developement/Comgo/UAT/05July2019/ComGo-Marketplace-Test-Server/node_modules/mongodb-core/lib/cursor.js:171:5)\n    at nextFunction (/home/dell/Cateina/Developement/Comgo/UAT/05July2019/ComGo-Marketplace-Test-Server/node_modules/mongodb-core/lib/cursor.js:691:5)\n    at /home/dell/Cateina/Developement/Comgo/UAT/05July2019/ComGo-Marketplace-Test-Server/node_modules/mongodb-core/lib/cursor.js:602:7\n    at queryCallback (/home/dell/Cateina/Developement/Comgo/UAT/05July2019/ComGo-Marketplace-Test-Server/node_modules/mongodb-core/lib/cursor.js:232:18)\n    at /home/dell/Cateina/Developement/Comgo/UAT/05July2019/ComGo-Marketplace-Test-Server/node_modules/mongodb-core/lib/connection/pool.js:469:18\n    at _combinedTickCallback (internal/process/next_tick.js:131:7)\n    at process._tickCallback (internal/process/next_tick.js:180:9)","exception":true,"date":"Sat Jul 06 2019 18:22:07 GMT+0530 (IST)","process":{"pid":9462,"uid":1000,"gid":1000,"cwd":"/home/dell/Cateina/Developement/Comgo/UAT/05July2019/ComGo-Marketplace-Test-Server","execPath":"/usr/local/bin/node","version":"v8.9.4","argv":["/usr/local/bin/node","/home/dell/Cateina/Developement/Comgo/UAT/05July2019/ComGo-Marketplace-Test-Server/comgoTest.js"],"memoryUsage":{"rss":108658688,"heapTotal":75415552,"heapUsed":68662544,"external":18168112}},"os":{"loadavg":[1.41455078125,1.73779296875,1.31689453125],"uptime":28304},"trace":[{"column":17,"file":"/home/dell/Cateina/Developement/Comgo/UAT/05July2019/ComGo-Marketplace-Test-Server/node_modules/jsonwebtoken/sign.js","function":null,"line":41,"method":null,"native":false},{"column":null,"file":null,"function":"Array.forEach","line":null,"method":"forEach","native":false},{"column":6,"file":"/home/dell/Cateina/Developement/Comgo/UAT/05July2019/ComGo-Marketplace-Test-Server/node_modules/jsonwebtoken/sign.js","function":"validate","line":37,"method":null,"native":false},{"column":10,"file":"/home/dell/Cateina/Developement/Comgo/UAT/05July2019/ComGo-Marketplace-Test-Server/node_modules/jsonwebtoken/sign.js","function":"validateOptions","line":52,"method":null,"native":false},{"column":5,"file":"/home/dell/Cateina/Developement/Comgo/UAT/05July2019/ComGo-Marketplace-Test-Server/node_modules/jsonwebtoken/sign.js","function":"Object.module.exports [as sign]","line":135,"method":"exports [as sign]","native":false},{"column":33,"file":"/home/dell/Cateina/Developement/Comgo/UAT/05July2019/ComGo-Marketplace-Test-Server/services/svr.user.service.js","function":null,"line":72,"method":null,"native":false},{"column":56,"file":"/home/dell/Cateina/Developement/Comgo/UAT/05July2019/ComGo-Marketplace-Test-Server/node_modules/mongodb/lib/utils.js","function":"handleCallback","line":120,"method":null,"native":false},{"column":5,"file":"/home/dell/Cateina/Developement/Comgo/UAT/05July2019/ComGo-Marketplace-Test-Server/node_modules/mongodb/lib/collection.js","function":null,"line":1416,"method":null,"native":false},{"column":56,"file":"/home/dell/Cateina/Developement/Comgo/UAT/05July2019/ComGo-Marketplace-Test-Server/node_modules/mongodb/lib/utils.js","function":"handleCallback","line":120,"method":null,"native":false},{"column":5,"file":"/home/dell/Cateina/Developement/Comgo/UAT/05July2019/ComGo-Marketplace-Test-Server/node_modules/mongodb/lib/cursor.js","function":null,"line":683,"method":null,"native":false},{"column":5,"file":"/home/dell/Cateina/Developement/Comgo/UAT/05July2019/ComGo-Marketplace-Test-Server/node_modules/mongodb-core/lib/cursor.js","function":"handleCallback","line":171,"method":null,"native":false},{"column":5,"file":"/home/dell/Cateina/Developement/Comgo/UAT/05July2019/ComGo-Marketplace-Test-Server/node_modules/mongodb-core/lib/cursor.js","function":"nextFunction","line":691,"method":null,"native":false},{"column":7,"file":"/home/dell/Cateina/Developement/Comgo/UAT/05July2019/ComGo-Marketplace-Test-Server/node_modules/mongodb-core/lib/cursor.js","function":null,"line":602,"method":null,"native":false},{"column":18,"file":"/home/dell/Cateina/Developement/Comgo/UAT/05July2019/ComGo-Marketplace-Test-Server/node_modules/mongodb-core/lib/cursor.js","function":"queryCallback","line":232,"method":null,"native":false},{"column":18,"file":"/home/dell/Cateina/Developement/Comgo/UAT/05July2019/ComGo-Marketplace-Test-Server/node_modules/mongodb-core/lib/connection/pool.js","function":null,"line":469,"method":null,"native":false},{"column":7,"file":"internal/process/next_tick.js","function":"_combinedTickCallback","line":131,"method":null,"native":false},{"column":9,"file":"internal/process/next_tick.js","function":"process._tickCallback","line":180,"method":"_tickCallback","native":false}]}
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:12:54:30 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/home-page" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:12:57:23 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/home-page" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:13:02:00 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace?username=cm22" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+error: [31m401 - jwt malformed - /api/users/yourWorkSpace - POST - ::ffff:192.168.5.144[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:13:02:55 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace?username=cm22" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:13:03:00 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/find-workspace" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+error: [31m401 - jwt malformed - /api/users/yourWorkSpace - POST - ::ffff:192.168.5.144[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:13:03:47 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace?username=cm22" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:13:03:53 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/find-workspace" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+error: [31m401 - jwt malformed - /api/users/yourWorkSpace - POST - ::ffff:192.168.5.144[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:13:05:15 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace?username=cm22" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:13:05:21 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/find-workspace" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+error: [31m401 - jwt malformed - /api/users/yourWorkSpace - POST - ::ffff:192.168.5.144[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:13:07:34 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace?username=cm22" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+error: [31m401 - jwt malformed - /api/users/yourWorkSpace - POST - ::ffff:192.168.5.144[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:13:08:36 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace?username=cm22" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+error: [31m401 - jwt malformed - /api/users/yourWorkSpace - POST - undefined[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:13:08:49 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:13:10:15 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace?username=cm22&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1ZDIwNDU4M2VlMTRhNzRlNTZlOTIxYTQiLCJpYXQiOjE1NjI0MTg1NDMsImV4cCI6MTU2MjQyMjE0M30.EUw4q-TM8GQM1FMWND1lHgb7IpxXPS6tN_W5lsKcYCU" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+error: [31m401 - jwt malformed - /api/users/yourWorkSpace - POST - ::ffff:192.168.5.144[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:13:11:04 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace?username=cm22&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1ZDIwNDU4M2VlMTRhNzRlNTZlOTIxYTQiLCJpYXQiOjE1NjI0MTg1NDMsImV4cCI6MTU2MjQyMjE0M30.EUw4q-TM8GQM1FMWND1lHgb7IpxXPS6tN_W5lsKcYCU" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:13:11:09 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/home-page" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:13:13:06 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace?username=cm22&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1ZDIwNDU4M2VlMTRhNzRlNTZlOTIxYTQiLCJpYXQiOjE1NjI0MTg1NDMsImV4cCI6MTU2MjQyMjE0M30.EUw4q-TM8GQM1FMWND1lHgb7IpxXPS6tN_W5lsKcYCU" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:13:13:11 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/home-page" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:13:13:25 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace?username=cm22&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1ZDIwNDU4M2VlMTRhNzRlNTZlOTIxYTQiLCJpYXQiOjE1NjI0MTg1NDMsImV4cCI6MTU2MjQyMjE0M30.EUw4q-TM8GQM1FMWND1lHgb7IpxXPS6tN_W5lsKcYCU" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:13:16:56 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace?username=cm22&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1ZDIwNDU4M2VlMTRhNzRlNTZlOTIxYTQiLCJpYXQiOjE1NjI0MTg5MjgsImV4cCI6MTU2MjQxODk4OH0.8jANmLOh9NMpcipL-IzzDUa13PlFVY14nJXi-dJ-utE" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+error: [31m401 - jwt expired - /api/users/yourWorkSpace - POST - ::ffff:192.168.5.144[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:13:19:02 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace?username=cm21&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1ZDIwNDUzNWVlMTRhNzRlNTZlOTIxYTMiLCJpYXQiOjE1NjI0MTkwODUsImV4cCI6MTU2MjQxOTI2NX0.lQApGvyefoHy_tcg2XWsHqIN4OGcUXrLUa4wgEUa7YU" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:13:19:22 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace?username=cm21&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1ZDIwNDUzNWVlMTRhNzRlNTZlOTIxYTMiLCJpYXQiOjE1NjI0MTkwODUsImV4cCI6MTU2MjQxOTI2NX0.lQApGvyefoHy_tcg2XWsHqIN4OGcUXrLUa4wgEUa7YU" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:13:19:39 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace?username=cm21&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1ZDIwNDUzNWVlMTRhNzRlNTZlOTIxYTMiLCJpYXQiOjE1NjI0MTkwODUsImV4cCI6MTU2MjQxOTI2NX0.lQApGvyefoHy_tcg2XWsHqIN4OGcUXrLUa4wgEUa7YU" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:13:20:24 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace?username=cm21&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1ZDIwNDUzNWVlMTRhNzRlNTZlOTIxYTMiLCJpYXQiOjE1NjI0MTkwODUsImV4cCI6MTU2MjQxOTI2NX0.lQApGvyefoHy_tcg2XWsHqIN4OGcUXrLUa4wgEUa7YU" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.144 - - [06/Jul/2019:13:21:22 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.144:3010/pages/auth/your-workspace?username=cm21&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1ZDIwNDUzNWVlMTRhNzRlNTZlOTIxYTMiLCJpYXQiOjE1NjI0MTkwODUsImV4cCI6MTU2MjQxOTI2NX0.lQApGvyefoHy_tcg2XWsHqIN4OGcUXrLUa4wgEUa7YU" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36"[39m
+[32m[39m
+error: [31m401 - jwt expired - /api/users/yourWorkSpace - POST - ::ffff:192.168.5.144[39m

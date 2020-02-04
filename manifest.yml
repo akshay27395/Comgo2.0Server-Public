@@ -1,0 +1,6 @@
+applications:
+- name: comgo
+  random-root: true
+  memory: 4000M 
+  buildpack: https://github.com/cloudfoundry/nodejs-buildpack
+  health-check-type: process

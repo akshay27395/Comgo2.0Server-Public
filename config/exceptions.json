@@ -1,0 +1,62 @@
+{
+    "success": {
+        "code": 200,
+        "message": "success"
+    },
+    "badRequest": {
+        "code": 400,
+        "message": "Bad request"
+    },
+    "notFound": {
+        "code": 404,
+        "message": "record not found"
+    },
+    "conflict": {
+        "code": 409,
+        "message": "data already exist"
+    },
+    "unauthorized": {
+        "code": 401,
+        "message": "Unauthorized access"
+    },
+    "mobNumberException": {
+        "code": 409,
+        "message": "Contact number already exist"
+    },
+    "emailException": {
+        "code": 409,
+        "message": "Email already exist"
+    },
+    "usernameException": {
+        "code": 409,
+        "message": "Username already exist"
+    },
+    "unavailable": {
+        "code": 503,
+        "message": "service unavailable"
+    },
+    "invalid": {
+        "code": 417,
+        "message": "id is invalid"
+    },
+    "invalidInput": {
+        "code": 418,
+        "message": "invalid input"
+    },
+    "userNotActivated": {
+        "code": 419,
+        "message": "User need to Accept Aggrement"
+    },
+    "OrgNotValid": {
+        "code": 420,
+        "message": "Organisation not Approved"
+    },
+    "InvalidEmail": {
+        "code": 421,
+        "message": "Invalid Email Address"
+    },
+    "POException": {
+        "code": 422,
+        "message": "PO Number already exist"
+    }
+}

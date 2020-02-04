@@ -1,0 +1,11 @@
+info: [32m::ffff:192.168.5.139 - - [04/Jan/2020:06:01:07 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.139:3010/pages/auth/login-2" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.139 - - [04/Jan/2020:06:26:52 +0000] "GET / HTTP/1.1" 302 52 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36"[39m
+[32m[39m
+error: [31m500 - No default engine was specified and no extension was provided. - /login?returnUrl=%2Fapp%2F - GET - ::ffff:192.168.5.139[39m
+info: [32m::ffff:192.168.5.139 - - [04/Jan/2020:06:26:53 +0000] "GET /favicon.ico HTTP/1.1" 404 150 "https://192.168.5.139:3001/login?returnUrl=%2Fapp%2F" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.139 - - [04/Jan/2020:06:26:53 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.139:3010/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36"[39m
+[32m[39m
+info: [32m::ffff:192.168.5.139 - - [04/Jan/2020:09:39:14 +0000] "GET /getProfileImage/ HTTP/1.1" 404 155 "https://192.168.5.139:3010/pages/auth/login-2" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36"[39m
+[32m[39m

@@ -1,0 +1,71 @@
+{
+    "name": "ComgoProject",
+    "version": "1.0.0",
+    "description": "COMGO Project",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/cornflourblue/mean-stack-registration-login-example.git"
+    },
+    "scripts": {
+        "start": "node server.js",
+        "test": "mocha --timeout 10000"
+    },
+    "dependencies": {
+        "app-root-path": "^2.1.0",
+        "aws-sdk": "^2.488.0",
+        "bcryptjs": "^2.1.0",
+        "body-parser": "^1.13.2",
+        "bootstrap": "^3.3.5",
+        "chai-http": "^4.2.1",
+        "compression": "^1.7.3",
+        "connect-redis": "^3.3.2",
+        "cookie-parser": "^1.4.3",
+        "cors": "^2.8.4",
+        "crud-sdk": "^1.0.12",
+        "email-check": "^1.1.0",
+        "express": "^4.13.0",
+        "express-jwt": "^3.0.1",
+        "express-session": "^1.7.6",
+        "express-validator": "^5.3.1",
+        "helmet": "^3.6.1",
+        "html-parse-stringify": "^1.0.3",
+        "ipfs-api": "^26.1.2",
+        "ipfs-http-client": "^32.0.1",
+        "js-currency-converter": "^2.0.0",
+        "js-sha1": "^0.4.1",
+        "js-sha256": "^0.6.0",
+        "jsonwebtoken": "^8.4.0",
+        "lodash": "^3.10.1",
+        "md5": "^2.2.1",
+        "mkdirp": "^0.5.1",
+        "mongo-crud": "^1.0.2",
+        "mongo-join": "1.0.0",
+        "mongodb": "^2.1.16",
+        "mongoskin": "^2.1.0",
+        "morgan": "^1.9.1",
+        "multer": "^1.3.0",
+        "nodemailer": "^4.2.0",
+        "q": "^1.4.1",
+        "random-js": "^1.0.8",
+        "redis": "^2.8.0",
+        "request": "^2.58.0",
+        "request-promise": "^4.2.1",
+        "rootpath": "^0.1.2",
+        "spdy": "^4.0.0",
+        "swagger-ui-express": "^4.0.1",
+        "tinyurl": "^1.1.2",
+        "twilio": "^3.6.2",
+        "winston": "^3.1.0",
+        "winston-daily-rotate-file": "^3.3.2",
+        "zlib": "^1.0.5"
+    },
+    "engines": {
+        "node": "v6.13.0",
+        "npm": "2.15.11"
+    },
+    "license": "MIT",
+    "devDependencies": {
+        "chai": "^4.2.0",
+        "mocha": "^5.2.0"
+    }
+}

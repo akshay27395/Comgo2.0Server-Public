@@ -1,0 +1,162 @@
+﻿﻿<style>
+    strong {
+        color: red;
+    }
+</style>
+<script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+    crossorigin="anonymous"></script>
+<script>
+    $.get("https://ipinfo.io", function (response) {
+        var location = response.loc;
+        document.getElementById("geolocation").value = location;
+    }, "jsonp")
+
+    var showBox = function () {
+        var s = document.getElementById("soflow").value;
+        if (s == 'donor') {
+            document.getElementById("url").style.display = "none";
+            document.getElementById("other").style.display = "none";
+        }
+
+        if (s == 'foundation') {
+            document.getElementById("other").style.display = "none";
+            document.getElementById("url").style.display = "block";
+        }
+
+        if (s == 'other') {
+            document.getElementById("other").style.display = "block";
+            document.getElementById("url").style.display = "block";
+        }
+
+        if (s == 'ngo') {
+            document.getElementById("other").style.display = "none";
+            document.getElementById("url").style.display = "block";
+        }
+
+        if (s == 'crm') {
+            document.getElementById("other").style.display = "none";
+            document.getElementById("url").style.display = "none";
+        }
+
+        if (s == 'validator') {
+            document.getElementById("other").style.display = "none";
+            document.getElementById("url").style.display = "none";
+        }
+    }
+</script>
+<%- include('partials/header') %>
+    <div class="form-container register">
+        <h2 class="col-md-offset-5 col-sm-offset-5 col-lg-offset-5 col-xs-offset-5">Register</h2>
+        <% if(locals.error) { %>
+            <div class="alert alert-danger">
+                <%= error %>
+            </div>
+            <% } %>
+                <form method="post">
+                    <div class="row col-md-5 col-sm-5 col-lg-5 col-md-offset-3 col-sm-offset-3 col-lg-offset-3 col-xs-5 col-xs-offset-3">
+                        <div class="row">
+                            <div class=" col-md-6 col-sm-6 col-lg-6 col-xs-6 form-group has-feedback">
+                                <div class="form-group">
+                                    <input type="text" name="firstName" pattern="[a-zA-Z]{2,10}" placeholder="Enter first name" id="firstName" class="form-control"
+                                        required />
+                                </div>
+                            </div>
+                            <div class="col-md-6 col-xs-6">
+                                <div class="form-group">
+                                    <input type="text" name="lastName" pattern="[a-zA-Z]{2,10}" placeholder="Enter last name" id="lastName" class="form-control"
+                                        value="<%= locals.lastName || '' %>" required />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class=" col-md-6 col-sm-6 col-lg-6 col-xs-6 form-group has-feedback" id="url">
+                                <div class="form-group">
+                                    <input type="text" name="url" placeholder="URL(http://www.sample.com)" class="form-control" pattern="[https]{4,5}[:/]{2,3}[www.]{3,4}[A-Za-z0-9.]{2,15}"
+                                        required />
+                                </div>
+                            </div>
+                            <div class=" col-md-6 col-sm-6 col-lg-6 col-xs-6 form-group has-feedback">
+                                <div class="dropdown">
+                                    <select id='soflow' onclick="showBox();" name="role" style="width : 240px; margin-top:-1px;margin-bottom:5px;height:35px"
+                                        class="form-control" required>
+                                        <option value="">Select Role</option>
+                                        <option value="foundation">Foundation</option>
+                                        <option value="ngo">NGO</option>
+                                        <option value="donor">Donor</option>
+                                        <option value="validator">Validator</option>
+                                        <option value="board">Board</option>
+                                        <option value="crm">CRM</option>
+                                        <option value="other">Other</option>
+                                    </select>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row" id="other" style="display : none;">
+                            <div class=" col-md-12 col-sm-12 col-lg-12 col-xs-12 form-group ">
+                                <div class="form-group">
+                                    <input type="text" id="orgName" name="orgName" placeholder="Enter organization" class="form-control" pattern="[A-Za-z0-9]{2,20}"
+                                    />
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="row" style="display : none;">
+                            <div class=" col-md-12 col-sm-12 col-lg-12 col-xs-12 form-group ">
+                                <div class="form-group">
+                                    <input type="text" id="geolocation" name="location" placeholder="Enter location" class="form-control" />
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class=" col-md-6 col-sm-6 col-lg-6 col-xs-6 form-group has-feedback">
+                                <div class="form-group">
+                                    <input type="text" id="idNumber" name="idNumber" placeholder="Enter id number" id="idNumber" class="form-control" pattern="[A-Za-z0-9]{2,20}"
+                                        required />
+                                </div>
+                            </div>
+                            <div class=" col-md-6 col-sm-6 col-lg-6 col-xs-6 form-group has-feedback">
+                                <div class="form-group">
+                                    <input type="text" name="phone" style=" padding-right:5px" placeholder="Enter contact no" id="contactNo" class="form-control"
+                                        pattern="\+[0-9]{11,14}" title='' required />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class=" col-md-12 col-sm-12 col-lg-12 col-xs-12 form-group has-feedback">
+                                <div class="form-group">
+                                    <input type="email" name="email" placeholder="Enter email" id="email" class="form-control" required />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row" style="display:block;">
+                            <div class="col-md-12 col-sm-12 col-lg-12 col-xs-12 form-group has-feedback">
+                                <div class="form-group">
+                                    <input type="text" name="username" pattern="[a-zA-Z0-9]{2,15}" placeholder="Enter username" id="username" class="form-control"
+                                        value="<%= locals.username || '' %>" required maxlength="30" required />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class=" col-md-12 col-sm-12 col-lg-12 col-xs-12 form-group has-feedback">
+                                <div class="form-group">
+                                    <input type="password" id="password" name="password" placeholder="Password" id="password" class="form-control" required />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class=" col-md-12 col-sm-12 col-lg-12 col-xs-12 form-group has-feedback">
+                                <div class="form-group">
+                                    <input type="password" id="confirmPassword" name="confirmPassword" placeholder="Confirm Password" class="form-control" required
+                                    />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="form-group text-center">
+                            <button type="submit" class="btn btn-primary" id="register">Register</button>
+                            <a href="/login" class="btn btn-info ">Cancel</a>
+                        </div>
+                    </div>
+                </form>
+    </div>
+    <%- include('partials/footer') %>

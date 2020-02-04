@@ -41,7 +41,7 @@ function getCurrencies(req,res){
     var currencyTYpe = req.body.currencyType;
     rp({
         method: 'GET',
-        uri: 'http://data.fixer.io/api/latest? access_key=5406783ac25a9902a2fa849114f5e9ab',
+        uri: 'http://data.fixer.io/api/latest? access_key=xyz',
         headers: {
             'User-Agent': 'Request-Promise',
             'Content-Type': 'application/x-www-form-urlencoded'

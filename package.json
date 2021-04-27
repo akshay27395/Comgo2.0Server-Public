@@ -47,7 +47,7 @@
         "nodemailer": "^4.2.0",
         "q": "^1.4.1",
         "random-js": "^1.0.8",
-        "redis": "^2.8.0",
+        "redis": "^3.1.1",
         "request": "^2.58.0",
         "request-promise": "^4.2.1",
         "rootpath": "^0.1.2",

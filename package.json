@@ -23,7 +23,7 @@
         "cors": "^2.8.4",
         "crud-sdk": "^1.0.12",
         "email-check": "^1.1.0",
-        "express": "^4.13.0",
+        "express": "^4.17.3",
         "express-jwt": "^3.0.1",
         "express-session": "^1.7.6",
         "express-validator": "^5.3.1",
